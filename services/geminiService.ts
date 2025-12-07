@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { GeminiModel } from "../types";
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: AIzaSyDImiv-2FBWbMttBlGLzRbEwqR90KRCJKk });
 
 export const sendChatMessage = async (
   message: string,
