@@ -1,0 +1,5 @@
+{
+  "name": "Pflegas Dashboard Prototyp",
+  "description": "A responsive dashboard featuring AI chat and image analysis capabilities powered by Gemini.",
+  "requestFramePermissions": []
+}
